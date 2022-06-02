@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "functional": "c",
+        "inet.h": "c",
+        "socket.h": "c",
+        "pthread.h": "c",
+        "__mutex_base": "c",
+        "condition_variable": "c",
+        "__locale": "c"
+    }
+}
